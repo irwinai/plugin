@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.irwinai.plugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.irwinai.plugin.MyBundle
 
 class MyApplicationService {
 
